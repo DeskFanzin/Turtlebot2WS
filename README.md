@@ -1,4 +1,4 @@
-Workspace do ROS indigo com todas as informações necessárias pro funcionamento da câmera ASTRA, e como fazer com que o NUC deste converse com a base, pra facilitar quem usar o turtlebot com base Kobuki.
+Workspace do ROS indigo com todas as informações necessárias pro funcionamento da câmera ASTRA, e como fazer com que o computador NUC deste converse com a base, pra facilitar quem usar o turtlebot com base Kobuki.
 
 
 ### COISAS NECESSÁRIAS PRA RODAR:
@@ -21,8 +21,6 @@ Workspace do ROS indigo com todas as informações necessárias pro funcionament
 ### LINKS ÚTEIS:
 
 Passo a passo para a inicialização da base e a instalação do ROS: http://learn.turtlebot.com/2015/02/01/6/
-
-ATENÇÃO: O NUC liga deixando em ON uma alavanca à esquerda do NUC, e apenas com o carregador deste.
 
 Tutorial para a câmera: https://www.dropbox.com/sh/w5w62dnsizrmx2y/AAACCs5vcrVBxsPwD7jtchj7a?dl=0&preview=ROS_orbbec_camera.pdf
 
