@@ -17,6 +17,11 @@ Workspace do ROS indigo com todas as informações necessárias pro funcionament
 
 -certas regras UDEV que provavelmente são necessárias caso haja algum erro nas compilações (nada que não seja pesquisável no google).
 
+-ATENÇÃO!! Como estamos utilizando a câmera astra, precisamos setar a variável de ambiente correta pro sensor 3d, no caso:
+```
+echo "export TURTLEBOT_3D_SENSOR=astra" >> .bashrc
+```
+
 
 ### LINKS ÚTEIS:
 
